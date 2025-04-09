@@ -1,0 +1,10 @@
+[project]
+name = "homepage-backend"
+version = "0.1.0"
+description = "Backend for homepage project"
+requires-python = ">=3.11"
+dependencies = [
+    "flask>=3.1.0",
+    "flask-cors>=5.0.1",
+    "python-dotenv>=1.1.0",
+]
